@@ -423,7 +423,7 @@ body {
 }
 
 .bg-triangle__layer:before {
-  top: -58px;left: 0;
+  top: -57px;left: 0;
   width: 320px;height: 58px;
   background: url('../img/svg/bg-triangle-mob.svg') center/contain no-repeat;
 }
