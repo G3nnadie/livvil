@@ -1576,6 +1576,9 @@
   .technologies .row [class*='col-']:not(:last-child) {
     margin-bottom: 25px;
   }
+  .technologies .tabs {
+    margin-top: 10px;
+  }
   .stages {
     padding-top: 60px;
   }
@@ -2005,8 +2008,8 @@
   .contacts__button {
     width: 100%;
   }
-  .video__box {
-    min-height: 350px;
+  .technologies .tabs__body {
+    height: 350px;
   }
   .exhibition__item {
     background: #fff;
@@ -2113,8 +2116,8 @@
   .video .upping {
     top: 10px;left: 10px;
   }
-  .video__box {
-    min-height: 290px;
+  .technologies .tabs__body {
+    height: 290px;
   }
   .video__box > img {
     max-width: 210px;
@@ -2230,7 +2233,10 @@
     margin-bottom: 30px;
   }
   .technologies .title {
-    margin-bottom: 50px;
+    margin-bottom: 140px;
+  }
+  .technologies .tabs__nav {
+    margin-top: -88px;
   }
   .stages .title,
   .construction .title,
