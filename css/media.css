@@ -2289,3 +2289,10 @@
     border-top: 250px solid #fff;
   }
 }
+
+@media only screen and (min-width : 2560px) {
+  .mortgage__img,
+  .questions__img {
+    width: 55%;
+  }
+}
