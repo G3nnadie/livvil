@@ -2185,6 +2185,9 @@
   .questions__btns .btn:not(:last-child) {
     margin-right: 10px;
   }
+  .bg-triangle__layer:before {
+    display: none;
+  }
 }
 
 /* Small Devices, Tablets */
